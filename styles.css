@@ -1,8 +1,10 @@
 
-* {background-color: rgb(68, 162, 93);}
+* {background-color: rgb(231, 158, 219);}
 h1 {color: white; text-align: center;}
 h2 {color: white;}
-p {color: rgb(51, 79, 203); font-size: 20px;}  
-strong {color: rgb(25, 0, 255);}
-li {color: white; font-size: 18px;} 
-a {color: rgb(0, 0, 0);} 
+h3 {color: white;}
+p {color: rgb(5, 17, 73); font-size: 20px;}  
+strong {color: rgb(43, 32, 138);}
+ul {color: rgb(5, 17, 73); font-size: 18px;} 
+a {color: rgb(5, 17, 73);} 
+ol {color: rgb(5, 17, 73); font-size: 18px;}
